@@ -1,4 +1,4 @@
-# Retention-Analysis# 
+# Retention-Analysis # 
 Why are we losing subscribers? Most of them never chose to leave.
 
 **A retention analysis of a subscription hardware business — Raquel Rodericks**
